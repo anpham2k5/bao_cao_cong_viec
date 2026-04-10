@@ -77,6 +77,7 @@ Link tham khảo cấu trúc vi mô phần cứng:https://github.com/notvenky/eF
 </div>
 
 Link tham khảo cảm biến từ kế:https://github.com/raunaqbhirangi/reskin_sensor/tree/main/circuits
+
 Giá thành đặt khoảng 15 đô.
 
 #### b. Cơ chế tạo và thu nhận tín hiệu từ tính
